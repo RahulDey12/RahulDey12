@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 ![Codersrank Summery](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rahuldey12)
 
-![Codersrank Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=rahuldey12)
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=YOUR_USERNAME&labels=true"
+/>
