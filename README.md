@@ -1,22 +1,8 @@
-<!--
-**RahulDey12/RahulDey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ![Codersrank Summery](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rahuldey12)
 
-<!--
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=YOUR_USERNAME&labels=true"
-/> -->
+## Connect Me
+
+- [Facebook](https://www.facebook.com/rahul900day)
+- [Instagram](https://www.facebook.com/rahul900day)
+- [Twitter](https://twitter.com/Rahul900day)
+- [LinkedIn](https://www.linkedin.com/in/rahul900day)
